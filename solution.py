@@ -4,8 +4,7 @@ import numpy as np
 
 from scipy.stats import norm 
 
-
-chat_id = 783729615
+chat_id = 783729615 
 
 def solution(p: float, x: np.array) -> tuple: 
 #x.mean()=C-0.5 
